@@ -1,0 +1,116 @@
+/* body {
+    height: 1500px;
+    background-color: #475569;
+    background-image: radial-gradient(whitesmoke, #475569);
+} */
+
+
+.background-img {
+    height: 700px;
+    border: 3px;
+    background-image: url('images/home2023-hero.jpg');
+    /* background-size: cover; /* or contain, or a specific size like 100% 100% */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: brightness(0.9);
+}
+
+.navbar-home {
+    padding: 50px;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+.nav-item {
+    font-size: large;
+    font-weight: bold;
+}
+
+/* .nav-item {
+    color: rgba(255, 255, 255, 0.9); /* Adjust the last value (opacity) as needed */
+
+
+
+
+button {
+    border-radius: 20px;
+    background-color: #edebeb;
+    border-color: #edebeb;
+    color: #121212;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+
+
+.blurry-background {
+    height: 450px;
+    border: 3px;
+    background-image: url('images/vision-bg.jpg');
+    /* background-size: cover; /* or contain, or a specific size like 100% 100% */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: brightness(0.9);
+    padding: 60px;
+}
+
+
+h1,
+h4 {
+    color: #fefbf5eb;
+}
+
+.btn-light {
+    border-radius: 20px;
+}
+
+.content {
+    padding-top: 85px;
+}
+
+.middle-text {
+    text-align: center;
+}
+
+#Our-Vision {
+    padding-top: 2px;
+    color: floralwhite;
+    font-size: xx-large;
+}
+
+.footer {
+    margin-top: 60px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+
+#under:hover {
+    text-decoration: underline;
+}
+
+.last {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: small;
+}
+
+#pr:hover {
+    text-decoration: underline;
+}
+
+#tc:hover {
+    text-decoration: underline;
+}
+
+#vd:hover {
+    text-decoration: underline;
+}
+
